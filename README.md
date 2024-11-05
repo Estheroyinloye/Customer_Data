@@ -17,7 +17,7 @@ This is a project where I used both Excel and SQL to analyze customer subscripti
 - Any other relevant insights
 
 ### Excel & SQL Concepts applied
-- Excel functions; IF, IFS, TRIM, X-LOOKUP
+- Excel functions; IF, IFS, TRIM, PROPER
 ```excel
 =IF(G2 = "FALSE", "CANCELLED", "ACTIVE")
 ```
