@@ -60,22 +60,19 @@ The report comprises;
 
 
 ### From the dashboard we could discover the following insights;
-1.	Out of 1,470 employees, 237 experienced attrition, representing approximately 16% of the workforce.
-2.	There exist a  strong link between job satisfaction level and attrition, where lower satisfaction is seen to have the highest attrition.
-3.	Job Level 1 had the highest attrition, with 143 employees leaving while the attrition rates decline significantly at higher job levels, with Job Levels 4 and 5 experiencing the least attrition (5 employees each).
-4.	Laboratory Technicians and Sales Executives showed the highest attrition counts,with a noticeable proportion of both males and females leaving these roles while the Research Directors and Managers experience the lowest attrition rates, indicating potentially higher job satisfaction or stability within these roles.
-5.	Attrition is highest among employees with a Life Sciences or Medical background, while Field like the Human Resources had e very low attrition rates.
-6.	The R&D department showed the highest attrition rate 56.1%, followed by Sales and HR having a relatively low attrition rate 5.1%, suggesting greater stability or satisfaction within this department.
-7.	Male employees account for 63.3% of the total attrition, while female employees make up 36.7%.
-8.	The age group 25-34 had the highest attrition, constituting 47.7% of the total with the attrition decreasing significantly in older age groups, with those aged 35-44 representing 21.9% and those over 55 making up only 3.4%.
+
+- Basic subscriptions account for approximately 50% of the total revenue, with Premium and Standard subscriptions each contributing around 25%.
+- The East region generates the highest revenue, contributing roughly 26% of the total, while the North region has the lowest revenue, accounting for about 24%.
+- Out of the total subscriptions, 70% are active, and 30% are canceled, indicating a strong retention rate.
+- Basic subscriptions lead in active users, making up around 51% of the total subscriptions, while Premium and Standard each represent approximately 25%.
+- The East region has the highest number of active subscriptions, accounting for 26% of all subscriptions, while the West region has the lowest at around 24%.
+- Basic subscriptions also have the highest cancellation rate, with 30% of all cancellations occurring in this category, followed by Premium and Standard with similar rates.
+- Active subscriptions comprise 70% of the total, showing robust customer retention across subscription types.
 
 ### Conclusion
-The data revealed that employee attrition is significantly influenced by job role, satisfaction level, job level, department, gender, and age. 
-Laboratory Technicians and Sales Executives exhibited the highest turnover, particularly among younger, entry-level employees with Life Sciences and Medical backgrounds. 
-Employees with low job satisfaction were more likely to leave, highlighting satisfaction as a critical factor. 
-The R&D and Sales departments experienced the highest attrition rates, with male employees showing a higher likelihood of departure compared to females. 
+The data revealed that the Basic subscriptions drive 50% of revenue and have strong engagement, with 70% of all subscriptions active. The East region is the top market for both revenue and subscriptions. However, Basic subscriptions also face the highest cancellations, indicating an area for improvement. Overall, retention is high, with opportunities to boost engagement in the Basic tier. 
 
 ### Reccommendation
-To reduce the attrition count, the organization could focus on enhancing job satisfaction in high-turnover departments like R&D and Sales and among entry-level employees. Additionally, the could implement targeted retention strategies for younger staff and provide clear career development paths, especially for roles with high turnover, such as Laboratory Technicians and Sales Executives.
+The focus should be to implement strategies to reduce cancellations in the Basic subscription tier to maximize revenue from this high-engagement group
 
 
