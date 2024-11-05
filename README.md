@@ -24,13 +24,14 @@ The project is aimed at analysing and deriving insights to answer critical quest
 =IF(G2 = "FALSE", "CANCELLED", "ACTIVE")
 ```
 - Pivot tables
-![](PV_01)
+
+![](PV_01.png)
 
 - Filters
 - Slicers
 
 ### Data Source
-The data was obtained from an open-source data site as a CSV file, after which it was cleaned, analysed, and visualized with Microsoft Excel.
+The data was obtained from an open-source data site as a CSV file, after which it was cleaned, analysed, and visualized with Microsoft Excel and SQL.
 
 ### Data Transformation and cleaning
 To clean the data, duplicates and blanks were removed from from the table using the " Remove duplicate" and "filter" button in excel.
