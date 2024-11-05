@@ -1,7 +1,6 @@
 # Customer_Data
 ## Project Title: Premium Consultancy Customer Analysis
 
-![](6946EF2B-755F-4352-83A7-7A1D1277AFCF_4_5005_c.jpeg)
 
 ### Introduction
 This is a Microsoft Excel project on attrition analysis of an imaginary organization called **Premium Consultancy**. 
@@ -41,15 +40,13 @@ Proper function was used to standardize the text
 
 ### Data Analysis and Visualization
 The report comprises;
-- Total Attrition count
-- Total Employee count
-- Attrition by Department
-- Attrition by Age
-- Attrition by gender
-- Attrition by job satisfaction level
-- Attrition by educational field
-- Attrition by marital status
-- Attrition by Job role 
+- Total Revenue by Region
+- Total Revenue by Subscription type
+- Total Subscriptios by Subscription Status (Active/ Cancelled)
+- Cancellation Status by Subscription Type
+- Subscription status by Region
+- Percentage Subscription by Subscription Status
+- Total Subscriptions by Subscription type
 
 ![](5.png)
 
