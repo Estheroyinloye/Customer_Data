@@ -24,6 +24,8 @@ The project is aimed at analysing and deriving insights to answer critical quest
 =IF(G2 = "FALSE", "CANCELLED", "ACTIVE")
 ```
 - Pivot tables
+![](Screenshot 2024-11-05 at 10.05.10.png)
+  
 - Filters
 - Slicers
 
