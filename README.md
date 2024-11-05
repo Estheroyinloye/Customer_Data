@@ -1,7 +1,6 @@
 # Customer_Data
 ## Project Title: Premium Consultancy Customer Analysis
 
-
 ### Introduction
 This is a Microsoft Excel project on attrition analysis of an imaginary organization called **Premium Consultancy**. 
 The project is aimed at analysing and deriving insights to answer critical questions and help the orgnization make data driven decusions.
@@ -37,7 +36,6 @@ To clean the data, duplicates and blanks were removed from from the table using 
 Trim funtion was used to remove excess spaces
 Proper function was used to standardize the text
 
-
 ### Data Analysis and Visualization
 The report comprises;
 - Total Revenue by Region
@@ -48,16 +46,9 @@ The report comprises;
 - Percentage Subscription by Subscription Status
 - Total Subscriptions by Subscription type
 
-![](5.png)
+![](Cus_1)
 
-![](4.png)
-
-![](3.png)
-
-![](2.png)
-
-![](1.png)
-
+![](Cus_2)
 
 ### From the dashboard we could discover the following insights;
 
@@ -73,6 +64,6 @@ The report comprises;
 The data revealed that the Basic subscriptions drive 50% of revenue and have strong engagement, with 70% of all subscriptions active. The East region is the top market for both revenue and subscriptions. However, Basic subscriptions also face the highest cancellations, indicating an area for improvement. Overall, retention is high, with opportunities to boost engagement in the Basic tier. 
 
 ### Reccommendation
-The focus should be to implement strategies to reduce cancellations in the Basic subscription tier to maximize revenue from this high-engagement group
+The focus should be to implement strategies to reduce cancellations in the Basic subscription tier to maximize revenue from this high-engagement group.
 
 
