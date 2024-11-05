@@ -3,6 +3,7 @@
 
 ### Introduction
 This is a project where I used both Excel and SQL to analyze customer subscription data, revealing valuable insights into revenue distribution, subscription trends, and regional performance. The analysis provides recommendations to enhance customer retention and help the orgnization make data driven decusions.
+
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country but a dummy dataset to demonstrate the cabability of Microsoft  Excel._
 
 ### Problem Statement
