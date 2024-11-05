@@ -2,8 +2,7 @@
 ## Project Title: Premium Consultancy Customer Subscription Analysis
 
 ### Introduction
-This is a Microsoft Excel project on attrition analysis of an imaginary organization called **Premium Consultancy**. 
-The project is aimed at analysing and deriving insights to answer critical questions and help the orgnization make data driven decusions.
+This is a project where I used both Excel and SQL to analyze customer subscription data, revealing valuable insights into revenue distribution, subscription trends, and regional performance. The analysis provides recommendations to enhance customer retention and help the orgnization make data driven decusions.
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country but a dummy dataset to demonstrate the cabability of Microsoft  Excel._
 
 ### Problem Statement
@@ -21,13 +20,12 @@ The project is aimed at analysing and deriving insights to answer critical quest
 ```excel
 =IF(G2 = "FALSE", "CANCELLED", "ACTIVE")
 ```
+- Filters
+- Slicers
 - Pivot tables
 
 ![](PV_01.png)
 
-- Filters
-- Slicers
-  
 ``` SQL
 SELECT SubscriptionType, sum (Revenue) as total_revenue
 FROM Lita_customer_3
