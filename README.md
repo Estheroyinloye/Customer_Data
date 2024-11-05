@@ -46,9 +46,9 @@ The report comprises;
 - Percentage Subscription by Subscription Status
 - Total Subscriptions by Subscription type
 
-![](Cus_1)
+![](Cus_1.png)
 
-![](Cus_2)
+![](Cus_2.png)
 
 ### From the dashboard we could discover the following insights;
 
