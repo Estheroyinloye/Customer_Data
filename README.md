@@ -1,5 +1,5 @@
 # Customer_Data
-## Project Title: Premium Consultancy Customer Analysis
+## Project Title: Premium Consultancy Customer Subscription Analysis
 
 ### Introduction
 This is a Microsoft Excel project on attrition analysis of an imaginary organization called **Premium Consultancy**. 
