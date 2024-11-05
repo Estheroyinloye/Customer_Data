@@ -16,7 +16,7 @@ The project is aimed at analysing and deriving insights to answer critical quest
 - Which subscription type has the highest number of active subscriptions?
 - Any other relevant insights
 
-### Excel Concept applied
+### Excel & SQL Concepts applied
 - Excel functions; IF, IFS, TRIM, X-LOOKUP
 ```excel
 =IF(G2 = "FALSE", "CANCELLED", "ACTIVE")
@@ -27,6 +27,22 @@ The project is aimed at analysing and deriving insights to answer critical quest
 
 - Filters
 - Slicers
+  
+``` SQL
+SELECT SubscriptionType, sum (Revenue) as total_revenue
+FROM Lita_customer_3
+GROUP BY  SubscriptionType
+ORDER BY  SubscriptionType ASC;
+
+SELECT 
+ Region, SubscriptionType, 
+    COUNT(CASE WHEN Cancelled = 'TRUE' THEN 1 END) AS Num_of_inactive,
+    COUNT(CASE WHEN Cancelled = 'FALSE' THEN 1 END) AS Num_of_active
+FROM 
+    Lita_customer_3
+GROUP BY 
+    SubscriptionType;
+```
 
 ### Data Source
 The data was obtained from an open-source data site as a CSV file, after which it was cleaned, analysed, and visualized with Microsoft Excel and SQL.
